@@ -24,7 +24,7 @@
     "browser-sync": "^2.11.1",
     "client-sessions": "^0.8.0",
     "cookie-parser": "^1.4.6",
-    "cross-spawn": "^7.0.2",
+    "cross-spawn": "^7.0.6",
     "cypress": "^10.2.0",
     "del": "^6.1.1",
     "dotenv": "^16.0.1",
